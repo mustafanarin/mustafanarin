@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa. I'm a computer engineering student.</h1>
+<h3 align="center">Hi 👋, I'm Mustafa. I'm a computer engineering student.</h3>
 
 - 📱 I’m currently working on **Mobile Application Development**
 
